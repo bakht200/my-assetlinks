@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "findly",
+        "package_name": "app.findli.com",
+        "sha256_cert_fingerprints": [
+          "B2:41:9D:8D:6C:63:60:F8:C2:B8:C0:B6:62:57:A5:2C:4D:8E:22:58:54:5E:25:32:6D:AB:EC:CF:53:4B:60:F8"
+        ]
+      }
+    }
+  ]
